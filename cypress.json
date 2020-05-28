@@ -1,0 +1,8 @@
+{
+	"integrationFolder": "cypress/integration/components",
+	"screenshotsFolder": "tests/screenshots",
+	 "experimentalComponentTesting": true,
+		"componentFolder": "./Superlink",
+		"testFiles": "**/*spec.js",
+		"video": false
+}
